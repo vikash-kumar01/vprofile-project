@@ -23,3 +23,10 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+
+#  JENKINS PIPELINE
+
+   ![image](https://user-images.githubusercontent.com/35370115/179989335-86364680-25ae-4e70-81d3-5186016e1b16.png)
+
+
+
