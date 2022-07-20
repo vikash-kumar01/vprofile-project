@@ -23,3 +23,18 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+
+
+# BUILD
+   
+   ![image](https://user-images.githubusercontent.com/35370115/179937000-2c107440-5120-4c1a-bf18-300f6d02ea36.png)
+
+# TEST
+   
+   ![image](https://user-images.githubusercontent.com/35370115/179937175-6aeabe91-7514-4be5-8d90-7432deb9ac4a.png)
+
+# INTEGRATION TEST
+
+   
+
+
